@@ -78,8 +78,13 @@ input[type=submit] {
     margin-right: 90px;
     cursor: pointer;
   }
-  .cam{
-    margin-left:20px;
-    width: 80px;
-    height: 90px;
-  }
+ #cam{
+  height:20px;
+  width: 70px;
+  padding-bottom: 16px;
+  margin-top: -20px;
+  margin-bottom: 100px;
+  background-image: url("livebtn.png");
+  background-size:cover;
+  margin-left: 1425px
+ }
